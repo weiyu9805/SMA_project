@@ -1,1 +1,4 @@
+<<<<<<< Updated upstream
+=======
 汽車 500
+>>>>>>> Stashed changes
